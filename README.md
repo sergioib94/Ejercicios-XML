@@ -1,4 +1,4 @@
-# Ejercicio-XML
+# Ejercicio-XML-Parques de Lorca
 
 1. **Listar información**: Mostrar la localizacion de los distintos parques de Lorca.
 2. **Contar información**: Mostrar la cantidad de equipamientos con la que cuenta cada parque.
