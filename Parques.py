@@ -5,7 +5,7 @@ def Listar (doc):
 def Contar (doc):
     lista = []
     nombre = doc.xpath ('//situacion/text()')
-    for parques in doc.xpath ('//parques')
+    for parques in doc.xpath ('//parques'):
         equipamientos = parques.xpath ('count(//parques/equipamiento)')
         lista.append (int(equipamientos))
     return zip (nombre,lista)
@@ -26,8 +26,8 @@ while True:
     if opcion == "1":
         for parques in Listar (doc):
             print (parques)
-    elif opcion == "2"
-        for nombre, total in Contar (doc):
-            print (nombre, total)
+    elif opcion == "2":
+        for nombre ,total in Contar (doc):
+            print (nombre,total)
     else:
         break
