@@ -10,11 +10,19 @@ def Contar (doc):
         lista.append (int(equipamientos))
     return zip (nombre,lista)
 
+def localizar (parque,doc):
+    latitud = doc.xpath('//parques[situacion="%s"]/./latitud/text()' %parque)
+    longitud = doc.xpath('//parques[situacion="%s"]/./longitud/text()' %parque)
+
+    mapa = "http://www.openstreetmap.org/#map=20/%s/%s"%(latitud[0],longitud[0])
+
+    return mapa
+
 from lxml import etree
 doc = etree.parse ('parques_municipales_lorca.xml')
 
 while True:
-    print ('''1.Listar información: Mostrar la localizacion de los distintos parques de Lorca.
+    print ('''1.Listar información: Mostrar localizacion de los distintos parques de Lorca.
               2.Contar información: Mostrar la cantidad de equipamientos con la que cuenta cada parque.
               3.Buscar o filtrar información: Pedir por teclado una localizacion y mostrar si hay mas de un parque en esa localización.
               4.Buscar informacion relacionada: Pedir por teclado un equipamiento y mostrar los parques que cuenten con ese equipamiento.
@@ -29,5 +37,16 @@ while True:
     elif opcion == "2":
         for nombre ,total in Contar (doc):
             print (nombre,total)
+    elif opcion == "3":
+        loc = input ("Dime un barrio/pedania: ").capitalize()
+
+        for loc,nombre in Filtro (loc,doc):
+            print (loc," -> ",nombre)
+    elif opcion == "5":
+        parque = input("Dime el nombre de un parque para obtener su localizacion: ")
+
+        print (localizar(parque,doc))
+    elif opcion == "0":
+        break;
     else:
-        break
+        print ("ERROR, esa opcion no existe")
