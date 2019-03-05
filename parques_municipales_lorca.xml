@@ -1,0 +1,2135 @@
+<parques>
+  <parques>
+    <idparque>18</idparque>
+    <situacion>10 Mandamientos</situacion>
+    <longitud>-1.69118597424915</longitud>
+    <latitud>37.681345624822</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>18</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>18</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>18</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>18</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>18</idsituacion>
+      <cantidad>0</cantidad>
+      <equipa>Metros Cuadrados m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>73</idparque>
+    <situacion>Aguaderas</situacion>
+    <longitud>-1.603707947127532</longitud>
+    <latitud>37.639009575875477</latitud>
+    <pedania>AGUADERAS</pedania>
+    <equipamiento>
+      <idsituacion>73</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>73</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>73</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>73</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>73</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>64</idparque>
+    <situacion>Alameda</situacion>
+    <longitud>-1.8138798244110603</longitud>
+    <latitud>37.9453016986315</latitud>
+    <pedania>COY</pedania>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>64</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>22</idparque>
+    <situacion>Angelote</situacion>
+    <longitud>-1.68229526117341</longitud>
+    <latitud>37.6851698794557</latitud>
+    <barrio>ANGELES (LOS)-APOLONIA</barrio>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>22</idsituacion>
+      <cantidad>0</cantidad>
+      <equipa>Metros Cuadrados m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>16</idparque>
+    <situacion>Cabezo Casas Blancas</situacion>
+    <longitud>-1.69158288032543</longitud>
+    <latitud>37.6842671825063</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>16</idsituacion>
+      <cantidad>0</cantidad>
+      <equipa>Metros Cuadrados m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>15</idparque>
+    <situacion>Cabezo Marines</situacion>
+    <longitud>-1.69847366155636</longitud>
+    <latitud>37.6851163803382</latitud>
+    <barrio>CORAZON DE MARIA</barrio>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>15</idsituacion>
+      <cantidad>0</cantidad>
+      <equipa>Metros Cuadrados m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>60</idparque>
+    <situacion>Calle Juan Bayonas</situacion>
+    <longitud>-1.7048573085184</longitud>
+    <latitud>37.6696495230293</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>60</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Volante</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>78</idparque>
+    <situacion>Campo López</situacion>
+    <longitud>-1.5769593847797978</longitud>
+    <latitud>37.588015626965685</latitud>
+    <pedania>CARRASQUILLA</pedania>
+    <equipamiento>
+      <idsituacion>78</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>78</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>78</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>78</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>20</idparque>
+    <situacion>Canal de San Diego</situacion>
+    <longitud>-1.6866309579545487</longitud>
+    <latitud>37.680570336302331</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>20</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>20</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>20</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>20</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>20</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>62</idparque>
+    <situacion>Candelaria</situacion>
+    <longitud>-1.703534157694321</longitud>
+    <latitud>37.691126584170696</latitud>
+    <barrio>CORAZON DE MARIA</barrio>
+    <equipamiento>
+      <idsituacion>62</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>61</idparque>
+    <situacion>Carril Virgen de Las Huertas</situacion>
+    <longitud>-1.6891158736241323</longitud>
+    <latitud>37.665144681982838</latitud>
+    <barrio>VIRGEN DE LAS HUERTAS</barrio>
+    <equipamiento>
+      <idsituacion>61</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>61</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>61</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>19</idparque>
+    <situacion>Casa Mata</situacion>
+    <longitud>-1.6920389167158874</longitud>
+    <latitud>37.67999553666067</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>19</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>19</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>19</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>19</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>19</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>30</idparque>
+    <situacion>Cazalla</situacion>
+    <longitud>-1.6738707777872151</longitud>
+    <latitud>37.651225054290563</latitud>
+    <pedania>CAZALLA</pedania>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tirolina</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>30</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Trepa</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>6</idparque>
+    <situacion>Doctor Pallarés</situacion>
+    <longitud>-1.6950297488361912</longitud>
+    <latitud>37.672283609923866</latitud>
+    <barrio>SUTULLENA</barrio>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Casita</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Juego múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>6</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>70</idparque>
+    <situacion>Ermita Felí</situacion>
+    <longitud>-1.6419831011412498</longitud>
+    <latitud>37.602307193685007</latitud>
+    <pedania>PURIAS</pedania>
+    <equipamiento>
+      <idsituacion>70</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>70</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>70</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>70</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>66</idparque>
+    <situacion>Escarihuela</situacion>
+    <longitud>-1.7211048967949409</longitud>
+    <latitud>37.4942136368088</latitud>
+    <pedania>ESCUCHA</pedania>
+    <equipamiento>
+      <idsituacion>66</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>66</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre múltiple</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>65</idparque>
+    <situacion>Glorieta</situacion>
+    <longitud>-1.7766185767761726</longitud>
+    <latitud>37.471711928901918</latitud>
+    <pedania>ALMENDRICOS</pedania>
+    <equipamiento>
+      <idsituacion>65</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>58</idparque>
+    <situacion>Glorieta</situacion>
+    <longitud>-1.6989166082639713</longitud>
+    <latitud>37.678423030413782</latitud>
+    <barrio>PARROQUIAS ALTAS</barrio>
+    <equipamiento>
+      <idsituacion>58</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>58</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>58</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>58</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>31</idparque>
+    <situacion>Glorieta</situacion>
+    <longitud>-1.7105675224962624</longitud>
+    <latitud>37.6596005170024</latitud>
+    <barrio>SAN ANTONIO</barrio>
+    <equipamiento>
+      <idsituacion>31</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>31</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>31</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>31</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>26</idparque>
+    <situacion>Glorieta-ermita</situacion>
+    <longitud>-1.7027006801736206</longitud>
+    <latitud>37.688180959525184</latitud>
+    <barrio>CORAZON DE MARIA</barrio>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Arco</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>26</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>63</idparque>
+    <situacion>Glorieta Calle Escuelas</situacion>
+    <longitud>-1.8120934732071419</longitud>
+    <latitud>37.946617331956844</latitud>
+    <pedania>COY</pedania>
+    <equipamiento>
+      <idsituacion>63</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>63</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>63</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>63</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>63</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>40</idparque>
+    <situacion>Glorieta Casa Grande (Coy)</situacion>
+    <longitud>-1.8127128588912456</longitud>
+    <latitud>37.94657358257934</latitud>
+    <pedania>COY</pedania>
+    <equipamiento>
+      <idsituacion>40</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>40</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>40</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>40</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>40</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>59</idparque>
+    <situacion>Glorieta Pichichí</situacion>
+    <longitud>-1.7040165431610603</longitud>
+    <latitud>37.6718219758388</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>59</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>59</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>59</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Nave cósmica</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>59</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>59</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>43</idparque>
+    <situacion>Hoyasol (La Hoya)</situacion>
+    <longitud>-1.5944373714683024</longitud>
+    <latitud>37.712051708330762</latitud>
+    <pedania>HOYA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>43</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>42</idparque>
+    <situacion>Juan Navarro (La Hoya)</situacion>
+    <longitud>-1.595971595024821</longitud>
+    <latitud>37.706670420617066</latitud>
+    <pedania>HOYA (LA)</pedania>
+  </parques>
+  <parques>
+    <idparque>27</idparque>
+    <situacion>La Almenara</situacion>
+    <longitud>-1.6983585266681303</longitud>
+    <latitud>37.6338041008994</latitud>
+    <pedania>CAMPILLO</pedania>
+  </parques>
+  <parques>
+    <idparque>67</idparque>
+    <situacion>La Campana</situacion>
+    <longitud>-1.7320631548609526</longitud>
+    <latitud>37.464574541708238</latitud>
+    <pedania>ESCUCHA</pedania>
+    <equipamiento>
+      <idsituacion>67</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>67</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>67</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>67</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre múltiple</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>4</idparque>
+    <situacion>La Isla - Glorieta</situacion>
+    <longitud>-1.6967358501087801</longitud>
+    <latitud>37.668668130505054</latitud>
+    <barrio>SUTULLENA</barrio>
+    <equipamiento>
+      <idsituacion>4</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>4</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>4</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>4</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>5</idparque>
+    <situacion>La Isla (Cervantes)</situacion>
+    <longitud>-1.6973364485889988</longitud>
+    <latitud>37.667999231689976</latitud>
+    <barrio>SUTULLENA</barrio>
+    <equipamiento>
+      <idsituacion>5</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>5</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Juego múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>5</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>5</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Nave cósmica</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>5</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>72</idparque>
+    <situacion>La Parroquia</situacion>
+    <longitud>-1.8953814275375862</longitud>
+    <latitud>37.728268927118144</latitud>
+    <pedania>TOVA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>72</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>14</idparque>
+    <situacion>La Peñica</situacion>
+    <longitud>-1.6985278339909655</longitud>
+    <latitud>37.681697454059233</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Puente</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>14</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>25</idparque>
+    <situacion>La Pulgara</situacion>
+    <longitud>-1.6817176715329651</longitud>
+    <latitud>37.669188094658715</latitud>
+    <pedania>PULGARA</pedania>
+    <equipamiento>
+      <idsituacion>25</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>25</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>25</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>25</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>25</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>11</idparque>
+    <situacion>La Quinta</situacion>
+    <longitud>-1.7055596780878659</longitud>
+    <latitud>37.6680493114882</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>11</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>11</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>11</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>11</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>11</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>23</idparque>
+    <situacion>La Salud</situacion>
+    <longitud>-1.6147204406372566</longitud>
+    <latitud>37.730016954393449</latitud>
+    <pedania>HOYA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>23</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Cabaña</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>23</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>23</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>23</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>17</idparque>
+    <situacion>La Verdad</situacion>
+    <longitud>-1.6954775086729796</longitud>
+    <latitud>37.685017910124031</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+  </parques>
+  <parques>
+    <idparque>2</idparque>
+    <situacion>La Viña</situacion>
+    <longitud>-1.7079140812509195</longitud>
+    <latitud>37.66299864201526</latitud>
+    <barrio>VIÑA (LA)</barrio>
+    <equipamiento>
+      <idsituacion>2</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>2</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>2</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Saltamontes</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>2</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>2</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>28</idparque>
+    <situacion>Las Artes</situacion>
+    <longitud>-1.697013741595697</longitud>
+    <latitud>37.664924769410909</latitud>
+    <barrio>SUTULLENA</barrio>
+    <equipamiento>
+      <idsituacion>28</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>28</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>28</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>28</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>28</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>34</idparque>
+    <situacion>Las Terreras</situacion>
+    <longitud>-1.7834156313821268</longitud>
+    <latitud>37.843886732866395</latitud>
+    <pedania>PACA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>34</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>34</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>34</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>34</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>13</idparque>
+    <situacion>Los Curtidores</situacion>
+    <longitud>-1.6938532113284737</longitud>
+    <latitud>37.681048334993491</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>13</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>13</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>13</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>13</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>13</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>68</idparque>
+    <situacion>Los Jopos (Glorieta)</situacion>
+    <longitud>-1.69290068363193</longitud>
+    <latitud>37.5442349772875</latitud>
+    <pedania>ESCUCHA</pedania>
+    <equipamiento>
+      <idsituacion>68</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>68</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>68</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>68</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>69</idparque>
+    <situacion>Los Jopos (Urbanización)</situacion>
+    <longitud>-1.69368598523442</longitud>
+    <latitud>37.5433218055278</latitud>
+    <pedania>ESCUCHA</pedania>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Arenero</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>69</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>75</idparque>
+    <situacion>Marchena</situacion>
+    <longitud>-1.64610472925585</longitud>
+    <latitud>37.6635251861877</latitud>
+    <pedania>MARCHENA</pedania>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Coche</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>75</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>12</idparque>
+    <situacion>Mundo Nuevo</situacion>
+    <longitud>-1.706559196921944</longitud>
+    <latitud>37.664658564557257</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>12</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Juego múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>12</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>12</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>12</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>79</idparque>
+    <situacion>Paraje La Piscina</situacion>
+    <longitud>-1.7235590522354869</longitud>
+    <latitud>37.509289899918286</latitud>
+    <pedania>ESCUCHA</pedania>
+    <equipamiento>
+      <idsituacion>79</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>79</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>79</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>79</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>39</idparque>
+    <situacion>Parque (Avilés)</situacion>
+    <longitud>-1.7970809447524516</longitud>
+    <latitud>37.904453143013519</latitud>
+    <pedania>AVILES</pedania>
+    <equipamiento>
+      <idsituacion>39</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>39</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>39</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>39</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>39</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>41</idparque>
+    <situacion>Parque (Doña Inés)</situacion>
+    <longitud>-1.8384513365981547</longitud>
+    <latitud>37.926654645803261</latitud>
+    <pedania>DOÑA INES</pedania>
+    <equipamiento>
+      <idsituacion>41</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Juego múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>41</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>38</idparque>
+    <situacion>Parque (La Paca)</situacion>
+    <longitud>-1.8343153702971904</longitud>
+    <latitud>37.871629542485366</latitud>
+    <pedania>PACA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>38</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>38</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>38</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>38</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>38</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>45</idparque>
+    <situacion>Parque Almendricos</situacion>
+    <longitud>-1.7776751625297038</longitud>
+    <latitud>37.475569788992459</latitud>
+    <pedania>ALMENDRICOS</pedania>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>45</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>37</idparque>
+    <situacion>Plaza Iglesia (La Paca)</situacion>
+    <longitud>-1.837147783016917</longitud>
+    <latitud>37.874140622269067</latitud>
+    <pedania>PACA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>37</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Casita</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>37</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>37</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>37</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>7</idparque>
+    <situacion>Plaza La Amargura</situacion>
+    <longitud>-1.6963386668354588</longitud>
+    <latitud>37.67854625492199</latitud>
+    <barrio>SANTIAGO</barrio>
+    <equipamiento>
+      <idsituacion>7</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>7</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>7</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>7</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>7</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>3</idparque>
+    <situacion>Plaza República de Ecuador</situacion>
+    <longitud>-1.7022382685554476</longitud>
+    <latitud>37.664902123239884</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>3</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>3</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>3</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>3</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tirolina</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>3</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>10</idparque>
+    <situacion>Plaza San José</situacion>
+    <longitud>-1.7057923516541678</longitud>
+    <latitud>37.667225151521343</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>10</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Juego múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>10</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>10</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>10</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>32</idparque>
+    <situacion>Puntas de Calnegre</situacion>
+    <longitud>-1.4021039808221758</longitud>
+    <latitud>37.509562543220319</latitud>
+    <pedania>RAMONETE</pedania>
+    <equipamiento>
+      <idsituacion>32</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>32</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>32</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>32</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>81</idparque>
+    <situacion>Rambla de las Señoritas (cocinas)</situacion>
+    <longitud>-1.71076498104253</longitud>
+    <latitud>37.661524549959552</latitud>
+    <barrio>VIÑA (LA)</barrio>
+    <equipamiento>
+      <idsituacion>81</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>81</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>81</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>82</idparque>
+    <situacion>Rambla de las Señoritas (cubierta)</situacion>
+    <longitud>-1.7093595035187263</longitud>
+    <latitud>37.661023442889565</latitud>
+    <barrio>VIÑA (LA)</barrio>
+    <equipamiento>
+      <idsituacion>82</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>82</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>82</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>82</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre múltiple</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>1</idparque>
+    <situacion>Rambla de Los Peñones</situacion>
+    <longitud>-1.7126133114450113</longitud>
+    <latitud>37.658412203199077</latitud>
+    <pedania>TORRECILLA</pedania>
+    <equipamiento>
+      <idsituacion>1</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>1</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>1</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>1</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>1</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>77</idparque>
+    <situacion>Ramonete</situacion>
+    <longitud>-1.4516206748596687</longitud>
+    <latitud>37.533071220013937</latitud>
+    <pedania>RAMONETE</pedania>
+    <equipamiento>
+      <idsituacion>77</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>77</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>77</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>77</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>77</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>9</idparque>
+    <situacion>San José</situacion>
+    <longitud>-1.704279160658416</longitud>
+    <latitud>37.667162403244895</latitud>
+    <barrio>SAN JOSE</barrio>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Casita</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento nido</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tirolina</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>9</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>21</idparque>
+    <situacion>Sancho Dávila</situacion>
+    <longitud>-1.6849752596442613</longitud>
+    <latitud>37.685126338566953</latitud>
+    <barrio>SAN CRISTOBAL</barrio>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>3</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>21</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>8</idparque>
+    <situacion>Santa Clara</situacion>
+    <longitud>-1.6931479932466118</longitud>
+    <latitud>37.678019483032543</latitud>
+    <barrio>SANTIAGO</barrio>
+    <equipamiento>
+      <idsituacion>8</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>8</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Mariposa</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>8</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>8</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>8</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>29</idparque>
+    <situacion>Tercia</situacion>
+    <longitud>-1.6487523086182137</longitud>
+    <latitud>37.680674496623652</latitud>
+    <pedania>TERCIA</pedania>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>29</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Trepa</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>76</idparque>
+    <situacion>Torre del Obispo</situacion>
+    <longitud>-1.673846470963781</longitud>
+    <latitud>37.595458858394323</latitud>
+    <pedania>PURIAS</pedania>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Nave cósmica</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tirolina</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>76</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>35</idparque>
+    <situacion>Torrealvilla</situacion>
+    <longitud>-1.706164727300802</longitud>
+    <latitud>37.762651616715445</latitud>
+    <pedania>TORREALVILLA</pedania>
+    <equipamiento>
+      <idsituacion>35</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>35</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>35</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>35</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>35</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>74</idparque>
+    <situacion>Torrecilla</situacion>
+    <longitud>-1.7283656365982552</longitud>
+    <latitud>37.623836535936213</latitud>
+    <pedania>TORRECILLA</pedania>
+    <equipamiento>
+      <idsituacion>74</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento mixto</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>74</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>74</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>74</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>44</idparque>
+    <situacion>Urbanización (La Hoya)</situacion>
+    <longitud>-1.5929353344199626</longitud>
+    <latitud>37.712654320321249</latitud>
+    <pedania>HOYA (LA)</pedania>
+    <equipamiento>
+      <idsituacion>44</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>44</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>44</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>44</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>44</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>24</idparque>
+    <situacion>Virgen de Las Huertas</situacion>
+    <longitud>-1.6902882390248806</longitud>
+    <latitud>37.672143322838508</latitud>
+    <barrio>VIRGEN DE LAS HUERTAS</barrio>
+    <equipamiento>
+      <idsituacion>24</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>24</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>24</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de arena m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>24</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>71</idparque>
+    <situacion>Zarcilla de Ramos</situacion>
+    <longitud>-1.8750771052948494</longitud>
+    <latitud>37.843770473754674</latitud>
+    <pedania>ZARCILLA DE RAMOS</pedania>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle múltiple</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Sube y baja</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>71</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre múltiple</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>36</idparque>
+    <situacion>Zarzadilla de Totana</situacion>
+    <longitud>-1.707264432996908</longitud>
+    <latitud>37.87892935376788</latitud>
+    <pedania>ZARZADILLA DE TOTANA</pedania>
+    <equipamiento>
+      <idsituacion>36</idsituacion>
+      <cantidad>2</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>36</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>36</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Torre</equipa>
+    </equipamiento>
+  </parques>
+  <parques>
+    <idparque>33</idparque>
+    <situacion>Zuñiga</situacion>
+    <longitud>-1.7041188040658426</longitud>
+    <latitud>37.799503406136566</latitud>
+    <pedania>TORREALVILLA</pedania>
+    <equipamiento>
+      <idsituacion>33</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Columpio asiento plano</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>33</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Muelle</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>33</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Suelo de caucho m2</equipa>
+    </equipamiento>
+    <equipamiento>
+      <idsituacion>33</idsituacion>
+      <cantidad>1</cantidad>
+      <equipa>Tobogán</equipa>
+    </equipamiento>
+  </parques>
+</parques>
