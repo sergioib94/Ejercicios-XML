@@ -6,9 +6,14 @@ def Contar (doc):
     lista = []
     nombre = doc.xpath ('//situacion/text()')
     for parques in doc.xpath ('//parques'):
-        equipamientos = parques.xpath ('count(//parques/equipamiento)')
+        equipamientos = parques.xpath ('count(./equipamiento/equipa)')
         lista.append (int(equipamientos))
     return zip (nombre,lista)
+
+def Filtrar (loc,doc):
+    barrios = doc.xparh ('//barrio')
+    pedanias = doc.xpath ('//pedania')
+
 
 def localizar (parque,doc):
     latitud = doc.xpath('//parques[situacion="%s"]/./latitud/text()' %parque)
@@ -22,12 +27,13 @@ from lxml import etree
 doc = etree.parse ('parques_municipales_lorca.xml')
 
 while True:
-    print ('''1.Listar información: Mostrar localizacion de los distintos parques de Lorca.
-              2.Contar información: Mostrar la cantidad de equipamientos con la que cuenta cada parque.
-              3.Buscar o filtrar información: Pedir por teclado una localizacion y mostrar si hay mas de un parque en esa localización.
-              4.Buscar informacion relacionada: Pedir por teclado un equipamiento y mostrar los parques que cuenten con ese equipamiento.
-              5.Ejercicio libre: Buscar la situacion de un parque dado por teclado y mostrarlo en un mapa openstreetmap usando la longitud y la latitud.
-              0.Salir''')
+    print ('''Menu:
+        1.Listar información: Mostrar localizacion de los distintos parques de Lorca.
+        2.Contar información: Mostrar la cantidad de equipamientos con la que cuenta cada parque.
+        3.Buscar o filtrar información: Pedir por teclado una localizacion y mostrar si hay mas de un parque en esa localización.
+        4.Buscar informacion relacionada: Pedir por teclado un equipamiento y mostrar los parques que cuenten con ese equipamiento.
+        5.Ejercicio libre: Buscar la situacion de un parque dado por teclado y mostrarlo en un mapa openstreetmap usando la longitud y la latitud.
+        0.Salir''')
 
     opcion = input("opcion: ")
 
@@ -36,15 +42,12 @@ while True:
             print (parques)
     elif opcion == "2":
         for nombre ,total in Contar (doc):
-            print (nombre,total)
+            print (nombre,"->",total)
     elif opcion == "3":
         loc = input ("Dime un barrio/pedania: ").capitalize()
 
-        for loc,nombre in Filtro (loc,doc):
-            print (loc," -> ",nombre)
     elif opcion == "5":
         parque = input("Dime el nombre de un parque para obtener su localizacion: ")
-
         print (localizar(parque,doc))
     elif opcion == "0":
         break;
