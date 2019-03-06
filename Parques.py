@@ -10,9 +10,13 @@ def Contar (doc):
         lista.append (int(equipamientos))
     return zip (nombre,lista)
 
-def Filtrar (loc,doc):
-    parques = doc.xpath ('//parques[barrio="%s"]/.//situacion/text()' %loc)
-    return parques
+def Filtrar (situacion,loc,doc):
+    if situacion == "barrio":
+        parques = doc.xpath ('//parques[barrio="%s"]/.//situacion/text()' %loc)
+        return parques
+    else:
+        parques =doc.xpath ('//parques[pedania="%s"]/.//situacion/text()' %loc)
+        return parques
 
 def Buscar (equipo,doc):
     equipamientos = doc.xpath ('//equipamiento[equipa="%s"]/../situacion/text()' %equipo)
@@ -47,11 +51,17 @@ while True:
         for nombre ,total in Contar (doc):
             print (nombre,"->",total)
     elif opcion == "3":
-        localizacion = input("situacion: ")
-        print (Filtrar(localizacion,doc))
+        situacion = input("Comprobar barrio o pedania: ")
+        if situacion == "barrio" or situacion == "pedania":
+            localizacion = input("situacion: ")
+            for localizacion in Filtrar (situacion,localizacion,doc):
+                print ("*",localizacion)
+        else:
+            print ("Esa opcion no es valida")
     elif opcion == "4":
         equipamiento = input("equipamiento: ")
-        print (Buscar(equipamiento,doc))
+        for equipamiento in Buscar (equipamiento,doc):
+            print ("*",equipamiento)
     elif opcion == "5":
         parque = input("Dime el nombre de un parque para obtener su localizacion: ")
         print (localizar(parque,doc))
