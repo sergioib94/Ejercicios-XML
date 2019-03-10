@@ -15,7 +15,7 @@ def Filtrar (situacion,loc,doc):
         parques = doc.xpath ('//parques[barrio="%s"]/.//situacion/text()' %loc)
         return parques
     else:
-        parques =doc.xpath ('//parques[pedania="%s"]/.//situacion/text()' %loc)
+        parques = doc.xpath ('//parques[pedania="%s"]/.//situacion/text()' %loc)
         return parques
 
 def Buscar (equipo,doc):
@@ -69,9 +69,9 @@ while True:
     elif opcion == "3":
         situacion = input("Comprobar barrio o pedania: ")
         if situacion == "barrio" or situacion == "pedania":
-            localizacion = (input("situacion: ")).capitalize()
-            for localizacion in Filtrar (situacion,localizacion,doc):
-                print ("*",localizacion)
+            loc = (input("situacion: "))
+            for loc in Filtrar (situacion,loc,doc):
+                print ("*",loc)
         else:
             print ("Esa opcion no es valida")
 
