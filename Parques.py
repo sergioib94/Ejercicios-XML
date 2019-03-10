@@ -69,7 +69,7 @@ while True:
     elif opcion == "3":
         situacion = input("Comprobar barrio o pedania: ")
         if situacion == "barrio" or situacion == "pedania":
-            loc = (input("situacion: "))
+            loc = (input("situacion (debe ponerse en mayusculas): "))
             for loc in Filtrar (situacion,loc,doc):
                 print ("*",loc)
         else:
